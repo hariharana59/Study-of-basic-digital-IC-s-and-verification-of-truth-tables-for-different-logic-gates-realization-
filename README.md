@@ -63,6 +63,12 @@ Press the switches for inputs “A” and “B”. The switch is ON state when 1
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
 
+
+
+
+
+
+
 # Program:
 ```
 module Logicgates(a,b,y1,y2,y3,y4,y5,y6,y7);
